@@ -13,7 +13,7 @@
 
 <br /><br />
 
-Hey there! I'm [Juan Castro-Varón](https://castrovaron.com). I'm a web developer and designer hailing from the mountains of Colombia ![Colombia Flag](./CO.svg) now based in London [![London Flag](./LON.svg)](https://flag.london/) ![UK Flag](./GB.svg), thanks to the [UK's Exceptional Talent Visa](https://technation.io/visa/). **I currently work as a Software Engineer at Google, creating tools to stop deforestation in the Amazon rainforest with [The Nature Conservancy Brazil](https://blog.google/intl/pt-br/novidades/iniciativas/sustentabilidade-com-google-ajudando-preservar-a-floresta-amazonica/).**
+Hey there! I'm [Juan Castro-Varón](https://castrovaron.com) ([pronunciation](https://jjcastro.github.io/jjcastro/pronunciation.mp3)). I'm a web developer and designer hailing from the mountains of Colombia ![Colombia Flag](./CO.svg) now based in London [![London Flag](./LON.svg)](https://flag.london/) ![UK Flag](./GB.svg), thanks to the [UK's Exceptional Talent Visa](https://technation.io/visa/). **I currently work as a Software Engineer at Google, creating tools to stop deforestation in the Amazon rainforest with [The Nature Conservancy Brazil](https://blog.google/intl/pt-br/novidades/iniciativas/sustentabilidade-com-google-ajudando-preservar-a-floresta-amazonica/).**
 
 ### My toolkit
 <p>  <img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=white" />  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=white" />
