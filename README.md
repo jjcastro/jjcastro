@@ -54,6 +54,6 @@ Hey there, I'm [Juan Castro-Varón](https://castrovaron.com). I'm a web develope
 
 
 - `wwdc-2018-scholarship` is a Swift Playground of AR experiments explaining computer graphics concepts such as vector algebra, plane detection and hit testing. The book also features a AR implementation of Tejo, Colombia's national sport ![Colombia Flag](./CO.svg). **[[Link to repo]](https://github.com/jjcastro/wwdc-2018-scholarship)** 
-- I created a ["scrollytelling" website](http://congreso.castrovaron.com) using [D3.js](https://d3js.org/) to illustrate the pro and anti-government voting patterns in the Colombian Congress, and how these have changed in the last ten years (published 2018). **[[Link to repo]](https://github.com/jjcastro/colombianSenateVotingPatterns)** 
+- I created a ["scrollytelling" website](http://congreso.castrovaron.com) (*in Spanish*) using [D3.js](https://d3js.org/) to illustrate the pro and anti-government voting patterns in the Colombian Congress, and how these have changed in the last ten years (published 2018). **[[Link to repo]](https://github.com/jjcastro/colombianSenateVotingPatterns)** 
 - I created a [3D gravity simulation game](https://jjcastro.github.io/gravity-game-simulation/) using WebGL where the goal is to correctly arrange moons in a 3D space to lead a projectile to the target using only the gravity of the moons. **[[Link to repo]](https://github.com/jjcastro/gravity-game-simulation)** 
 
