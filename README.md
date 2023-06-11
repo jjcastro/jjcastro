@@ -47,7 +47,7 @@ Hey there, I'm [Juan Castro-Varón](https://castrovaron.com). I'm a web develope
 
 ## Pet projects 🐰
 
-- I made [flag.london](https://flag.london/) ![London Flag](./LON.svg), my proposal for London's missing flag. The website is built using [Astro](https://astro.build/) and [Svelte](https://svelte.dev/), my JS frontend frameworks of choice. 
+- [flag.london](https://flag.london/) ![London Flag](./LON.svg) is my proposal for London's missing flag. The website is built using [Astro](https://astro.build/) and [Svelte](https://svelte.dev/), my JS frontend frameworks of choice. 
 - I volunteer as web developer for [Citapress.org](https://citapress.org/), a feminist [open-source](https://github.com/citapress/citapress) online library publishing books by women, founded by [@juliacastrov](https://github.com/juliacastrov). Cita is now supported by grants from the [Mellon Foundation](https://www.mellon.org/) and [Educopia Institute](https://educopia.org/). 
 
 ## Interesting repos 🌐
