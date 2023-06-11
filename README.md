@@ -1,5 +1,3 @@
-### Hey there!
-
 <a href="https://www.instagram.com/jcastrovaron/">
   <img align="left" alt="Juan's Instagram" width="22px" src="https://raw.githubusercontent.com/jjcastro/jjcastro/main/instagram.png" />
 </a>
@@ -15,9 +13,7 @@
 
 <br /><br />
 
-I'm Juan Castro-Varón *(he-him or they-them)*. I'm a web developer and designer hailing from the mountains of Colombia ![Colombia Flag](./CO.svg) now based in London [![London Flag](./LON.svg)](https://flag.london/) ![UK Flag](./GB.svg), thanks to the [UK's Exceptional Talent Visa](https://technation.io/visa/).
-
-**I currently work as a Software Engineer at Google, creating tools to stop deforestation in the Amazon rainforest with [The Nature Conservancy Brazil](https://blog.google/intl/pt-br/novidades/iniciativas/sustentabilidade-com-google-ajudando-preservar-a-floresta-amazonica/).**
+I'm Juan Castro-Varón *(he-him or they-them)*. I'm a web developer and designer hailing from the mountains of Colombia ![Colombia Flag](./CO.svg) now based in London [![London Flag](./LON.svg)](https://flag.london/) ![UK Flag](./GB.svg), thanks to the [UK's Exceptional Talent Visa](https://technation.io/visa/). **I currently work as a Software Engineer at Google, creating tools to stop deforestation in the Amazon rainforest with [The Nature Conservancy Brazil](https://blog.google/intl/pt-br/novidades/iniciativas/sustentabilidade-com-google-ajudando-preservar-a-floresta-amazonica/).**
 
 ### My toolkit
 <p>  <img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=white" />  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=white" />
@@ -57,10 +53,7 @@ I'm Juan Castro-Varón *(he-him or they-them)*. I'm a web developer and designer
 ## Interesting repos 🌐
 
 
-- `wwdc-2018-scholarship` is a Swift Playground of AR experiments explaining computer graphics concepts such as vector algebra, plane detection and hit testing. The book also features a AR implementation of Tejo, Colombia's national sport ![Colombia Flag](./CO.svg).
-  - **[[Link to repo]](https://github.com/jjcastro/wwdc-2018-scholarship)** 
-- I created a ["scrollytelling" website](http://congreso.castrovaron.com) using [D3.js](https://d3js.org/) to illustrate the pro and anti-government voting patterns in the Colombian Congress, and how these have changed in the last ten years (published 2018).
-  - **[[Link to repo]](https://github.com/jjcastro/colombianSenateVotingPatterns)** 
-- I created a [3D gravity simulation game](https://jjcastro.github.io/gravity-game-simulation/) using WebGL where the goal is to correctly arrange moons in a 3D space to lead a projectile to the target using only the gravity of the moons. 
-  - **[[Link to repo]](https://github.com/jjcastro/gravity-game-simulation)** 
+- `wwdc-2018-scholarship` is a Swift Playground of AR experiments explaining computer graphics concepts such as vector algebra, plane detection and hit testing. The book also features a AR implementation of Tejo, Colombia's national sport ![Colombia Flag](./CO.svg). **[[Link to repo]](https://github.com/jjcastro/wwdc-2018-scholarship)** 
+- I created a ["scrollytelling" website](http://congreso.castrovaron.com) using [D3.js](https://d3js.org/) to illustrate the pro and anti-government voting patterns in the Colombian Congress, and how these have changed in the last ten years (published 2018). **[[Link to repo]](https://github.com/jjcastro/colombianSenateVotingPatterns)** 
+- I created a [3D gravity simulation game](https://jjcastro.github.io/gravity-game-simulation/) using WebGL where the goal is to correctly arrange moons in a 3D space to lead a projectile to the target using only the gravity of the moons. **[[Link to repo]](https://github.com/jjcastro/gravity-game-simulation)** 
 
