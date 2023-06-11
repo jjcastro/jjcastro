@@ -48,7 +48,7 @@ Hey there! I'm [Juan Castro-Varón](https://castrovaron.com) ([🔊 pronunciatio
 ## Pet projects 🐰
 
 - [flag.london](https://flag.london/) ![London Flag](./LON.svg) is my proposal for London's missing flag. The website is built using [Astro](https://astro.build/) and [Svelte](https://svelte.dev/), my JS frontend frameworks of choice. 
-- I volunteer as web developer for [Citapress.org](https://citapress.org/), a feminist [open-source](https://github.com/citapress/citapress) online library publishing books by women, founded by [@juliacastrov](https://github.com/juliacastrov). Cita is now supported by [a $750,000 grant](https://github.com/citapress/citapress/blob/832de933034deeaea1356b2ee5a9107c58af3019/assets/Mellon%20Award%202023%20%20Press%20Release.pdf) from the [Mellon Foundation](https://www.mellon.org/) and [Educopia Institute](https://educopia.org/). ![Github Stars](https://img.shields.io/github/stars/citapress/citapress?style=social)
+- I developed the website as a volunteer for [Citapress.org](https://citapress.org/), a feminist [open-source](https://github.com/citapress/citapress) online library publishing books by women, founded by [@juliacastrov](https://github.com/juliacastrov). Cita is now supported by [a $750,000 grant](https://github.com/citapress/citapress/blob/832de933034deeaea1356b2ee5a9107c58af3019/assets/Mellon%20Award%202023%20%20Press%20Release.pdf) from the [Mellon Foundation](https://www.mellon.org/) and [Educopia Institute](https://educopia.org/). ![Github Stars](https://img.shields.io/github/stars/citapress/citapress?style=social)
 
 ## Interesting repos 🌐
 
