@@ -13,6 +13,7 @@
 
 <br /><br />
 
+Hey there! I'm [Juan Castro-Varón](https://castrovaron.com) ([🔊 pronunciation](https://jjcastro.github.io/jjcastro/pronunciation.mp3)). I'm a web developer and designer hailing from the mountains of Colombia ![Colombia Flag](./CO.svg) now based in London [![London Flag](./LON.svg)](https://flag.london/) ![UK Flag](./GB.svg), thanks to the [UK's Exceptional Talent Visa](https://technation.io/visa/). **I currently work as a Software Engineer at Google, creating tools to stop deforestation in the Amazon rainforest with [The Nature Conservancy Brazil](https://blog.google/intl/pt-br/novidades/iniciativas/sustentabilidade-com-google-ajudando-preservar-a-floresta-amazonica/).**
 Hey there! I'm [Juan Castro-Varón](https://castrovaron.com) ([pronunciation](https://jjcastro.github.io/jjcastro/pronunciation.mp3)). I'm a web developer and designer hailing from the mountains of Colombia ![Colombia Flag](./CO.svg) now based in London [![London Flag](./LON.svg)](https://flag.london/) ![UK Flag](./GB.svg), thanks to the [UK's Exceptional Talent Visa](https://technation.io/visa/). **I currently work as a Software Engineer at Google, creating tools to stop deforestation in the Amazon rainforest with [The Nature Conservancy Brazil](https://blog.google/intl/pt-br/novidades/iniciativas/sustentabilidade-com-google-ajudando-preservar-a-floresta-amazonica/).**
 
 ### My toolkit
