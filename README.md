@@ -4,8 +4,8 @@
 <!--<a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Juan's Discord" width="22px" src="https://raw.githubusercontent.com/jjcastro/jjcastro/main/discord.svg" />
 </a>-->
-<a href="https://twitter.com/jcastrovaron">
-  <img align="left" alt="Juan's Twitter" width="22px" src="https://raw.githubusercontent.com/jjcastro/jjcastro/main/twitter.svg" />
+<a href="https://threads.net/jcastrovaron">
+  <img align="left" alt="Juan's Threads" width="22px" src="https://raw.githubusercontent.com/jjcastro/jjcastro/main/threads.svg" />
 </a>
 <a href="https://www.linkedin.com/in/castrovaron/">
   <img align="left" alt="Juan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/jjcastro/jjcastro/main/linkedin.svg" />
